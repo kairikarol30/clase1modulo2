@@ -11,12 +11,16 @@ header {
     color: white;
     text-align: center;
     padding: 20px;
+    margin: 10px;
+    border: 2px solid #ff1493;
 }
 
 nav {
     background-color: #ffb6c1;
     padding: 10px;
     text-align: center;
+    margin-bottom: 10px;
+    border: 2px solid #ff1493;
 }
 
 nav ul {
@@ -32,7 +36,9 @@ nav ul li a {
     text-decoration: none;
     color: white;
     font-weight: bold;
-    padding: 5px 10px;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
 }
 
 nav.secundaria {
@@ -41,6 +47,8 @@ nav.secundaria {
     justify-content: center;
     background-color: #ffc0cb;
     padding: 10px;
+    margin-bottom: 10px;
+    border: 2px solid #ff1493;
 }
 
 nav.secundaria img {
@@ -52,14 +60,19 @@ nav.secundaria img {
 
 main {
     padding: 20px;
+    margin: 10px;
+    border: 2px solid #ff1493;
 }
 
 h2 {
     color: #ff1493;
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
 ul {
     padding-left: 20px;
+    margin: 10px;
 }
 
 img {
@@ -74,4 +87,6 @@ footer {
     color: white;
     text-align: center;
     padding: 10px;
+    margin-top: 20px;
+    border: 2px solid #ff1493;
 }
